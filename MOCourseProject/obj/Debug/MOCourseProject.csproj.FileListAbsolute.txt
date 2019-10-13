@@ -1,0 +1,10 @@
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\bin\Debug\MOCourseProject.exe.config
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\bin\Debug\MOCourseProject.exe
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\bin\Debug\MOCourseProject.pdb
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.csprojAssemblyReference.cache
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.Form1.resources
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.Properties.Resources.resources
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.csproj.GenerateResource.cache
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.csproj.CoreCompileInputs.cache
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.exe
+D:\proga c#\5semestr\MOCourseProject\MOCourseProject\obj\Debug\MOCourseProject.pdb
