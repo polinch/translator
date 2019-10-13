@@ -1,2 +1,2 @@
-# translator
-Course project, 5 semester
+# Транслятор  
+Курсовой проект, 5 семестр  
